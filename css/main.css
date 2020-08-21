@@ -1,0 +1,33 @@
+
+
+h1
+{
+    font-size: 2rem;
+    color: #aaa;
+}
+hr{
+    background-color: gray;
+}
+.data{
+    background-color: #eee;
+}
+label
+{
+  
+    font-weight: bolder;
+}
+.list .item
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    padding: 20px;
+
+}
+.border
+{
+    border: 2px solid red !important;
+
+}
+#dd
+{
+    transition: 1s all;
+}
